@@ -50,4 +50,5 @@ ABU-Robocon-CAD/
 
 ## Author
 
-Anirudhha Pratap
+Anirudhha Pratap Singh
+
