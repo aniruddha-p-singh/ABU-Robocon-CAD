@@ -42,7 +42,6 @@ My contributions included:
 ```
 ABU-Robocon-CAD/
 ├── CAD_Files/
-├── Drawings/
 ├── Renders/
 ├── Videos/
 └── README.md
